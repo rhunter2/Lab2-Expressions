@@ -45,3 +45,4 @@ Extend the ExpressionManagerInterface.h.
 * You must put parenthesis '()' around every part of the expression during the postfix to infix conversion. i.e. "4 2 5 + *" = "( 4 * ( 2 + 5 ) )"
 * You must use the stack class pre-defined in the C++ Standard Template Library (STL). i.e. #include <stack>
 * You can use the examples in this git repository 
+[![Run on Repl.it](https://repl.it/badge/github/BYUCS235/Lab2-Expressions)](https://repl.it/github/BYUCS235/Lab2-Expressions)
